@@ -182,3 +182,22 @@ Sometimes the best tool is the one that:
 - gets out of your way
 
 That is what this project is trying to be.
+<img width="1166" height="772" alt="image" src="https://github.com/user-attachments/assets/3d3958a3-827c-433c-8764-1723bc8d66e3" />
+
+<img width="1166" height="772" alt="image" src="https://github.com/user-attachments/assets/dd76dda6-f5fd-4449-9f68-cc0018ab76a2" />
+
+<img width="1166" height="772" alt="image" src="https://github.com/user-attachments/assets/84c92aca-7800-4a54-b3c4-588b11c64fa2" />
+
+
+
+**"RAM consumption varies depending on the type and size of the image being opened."**
+
+
+
+<img width="1151" height="192" alt="image" src="https://github.com/user-attachments/assets/c8321c89-6396-4dd4-9281-dd56d026456a" />
+
+
+
+
+
+
